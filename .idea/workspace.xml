@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fb45e7a7-e8a0-49db-95d4-9428670a1919" name="Default Changelist" comment="" />
+    <list default="true" id="fb45e7a7-e8a0-49db-95d4-9428670a1919" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q154寻找旋转排序数组中的最小值2/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q33搜索旋转排序数组/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,8 +19,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -241,7 +246,7 @@
       <workItem from="1589857378578" duration="7420000" />
       <workItem from="1590220222142" duration="62000" />
       <workItem from="1590308107638" duration="2961000" />
-      <workItem from="1590837307708" duration="754000" />
+      <workItem from="1590837307708" duration="1430000" />
     </task>
     <servers />
   </component>
