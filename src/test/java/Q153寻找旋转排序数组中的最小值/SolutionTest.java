@@ -1,9 +1,7 @@
-package Q153旋转排序数组最小值;
+package Q153寻找旋转排序数组中的最小值;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 class SolutionTest {
 

@@ -1,133 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fb45e7a7-e8a0-49db-95d4-9428670a1919" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../C&amp;Cpp/untitled/asm/test.asm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../C&amp;Cpp/untitled/cinanutshell/c02types/e2_1limits.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../C&amp;Cpp/untitled/linuxcbook/c03simplefuntion/demo3_3.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../C&amp;Cpp/untitled/tcpl/c01intro/d04constants/constants_demo1.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../C&amp;Cpp/untitled/tcpl/c01intro/d05characterio/demo1.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../C&amp;Cpp/untitled/tcpl/c01intro/d05characterio/demo2charcount.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../C&amp;Cpp/untitled/tcpl/c01intro/d05characterio/demo3linecount.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../C&amp;Cpp/untitled/tcpl/c01intro/d05characterio/demo4wordcount.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../C&amp;Cpp/untitled/tcpl/c01intro/d05characterio/practice/p1_10.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../C&amp;Cpp/untitled/tcpl/c01intro/d05characterio/practice/p1_8.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../C&amp;Cpp/untitled/tcpl/c01intro/d05characterio/practice/p1_9.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../C&amp;Cpp/untitled/tcpl/c01intro/d06array/demo1.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../C&amp;Cpp/untitled/tcpl/c01intro/d09chararray/demo1longestline.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../C&amp;Cpp/untitled/tcpl/c04function/demo1_mygrep.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS/DSAndAlgo/DataStructuresAndAlgorithms/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS/DSAndAlgo/DataStructuresAndAlgorithms/src/main/java/acwing/c01binarysearch/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS/DSAndAlgo/DataStructuresAndAlgorithms/src/main/java/acwing/c02biginteger/BigIntegerDivide.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS/DSAndAlgo/DataStructuresAndAlgorithms/src/main/java/acwing/c02biginteger/BigIntegerMultiply.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS/DSAndAlgo/DataStructuresAndAlgorithms/src/main/java/acwing/c03prefixsumandiff/Diff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS/DSAndAlgo/DataStructuresAndAlgorithms/src/main/java/acwing/c03prefixsumandiff/Diff2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS/DSAndAlgo/DataStructuresAndAlgorithms/src/main/java/acwing/c03prefixsumandiff/Diff2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS/DSAndAlgo/DataStructuresAndAlgorithms/src/main/java/acwing/c03prefixsumandiff/Diff2DBufferedReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS/DSAndAlgo/DataStructuresAndAlgorithms/src/main/java/acwing/c03prefixsumandiff/PrefixSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS/DSAndAlgo/DataStructuresAndAlgorithms/src/main/java/acwing/c03prefixsumandiff/PrefixSum2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q278第一个错误的版本/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q278第一个错误的版本/VersionControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Q278第一个错误的版本/SolutionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C&amp;Cpp/untitled/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../C&amp;Cpp/untitled/.idea/deployment.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C&amp;Cpp/untitled/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../C&amp;Cpp/untitled/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C&amp;Cpp/untitled/c07struct/demo1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C&amp;Cpp/untitled/c07struct/demo1.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C&amp;Cpp/untitled/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../C&amp;Cpp/untitled/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C&amp;Cpp/untitled/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C&amp;Cpp/untitled/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C&amp;Cpp/untitled/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C&amp;Cpp/untitled/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C&amp;Cpp/untitled/cmake-build-debug/CMakeFiles/3.15.3/CMakeRCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C&amp;Cpp/untitled/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C&amp;Cpp/untitled/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C&amp;Cpp/untitled/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C&amp;Cpp/untitled/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C&amp;Cpp/untitled/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C&amp;Cpp/untitled/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../C&amp;Cpp/untitled/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C&amp;Cpp/untitled/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../C&amp;Cpp/untitled/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C&amp;Cpp/untitled/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../C&amp;Cpp/untitled/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C&amp;Cpp/untitled/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../C&amp;Cpp/untitled/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C&amp;Cpp/untitled/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../C&amp;Cpp/untitled/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C&amp;Cpp/untitled/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../C&amp;Cpp/untitled/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C&amp;Cpp/untitled/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../C&amp;Cpp/untitled/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C&amp;Cpp/untitled/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" afterPath="$PROJECT_DIR$/../C&amp;Cpp/untitled/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C&amp;Cpp/untitled/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/../C&amp;Cpp/untitled/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C&amp;Cpp/untitled/cmake-build-debug/CMakeFiles/untitled.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../C&amp;Cpp/untitled/cmake-build-debug/CMakeFiles/untitled.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C&amp;Cpp/untitled/cmake-build-debug/CMakeFiles/untitled.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../C&amp;Cpp/untitled/cmake-build-debug/CMakeFiles/untitled.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C&amp;Cpp/untitled/cmake-build-debug/CMakeFiles/untitled.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../C&amp;Cpp/untitled/cmake-build-debug/CMakeFiles/untitled.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C&amp;Cpp/untitled/cmake-build-debug/CMakeFiles/untitled.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../C&amp;Cpp/untitled/cmake-build-debug/CMakeFiles/untitled.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C&amp;Cpp/untitled/cmake-build-debug/CMakeFiles/untitled.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../C&amp;Cpp/untitled/cmake-build-debug/CMakeFiles/untitled.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C&amp;Cpp/untitled/cmake-build-debug/CMakeFiles/untitled.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../C&amp;Cpp/untitled/cmake-build-debug/CMakeFiles/untitled.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C&amp;Cpp/untitled/cmake-build-debug/CMakeFiles/untitled.dir/linklibs.rsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C&amp;Cpp/untitled/cmake-build-debug/CMakeFiles/untitled.dir/objects1.rsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C&amp;Cpp/untitled/cmake-build-debug/CMakeFiles/untitled.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../C&amp;Cpp/untitled/cmake-build-debug/CMakeFiles/untitled.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C&amp;Cpp/untitled/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../C&amp;Cpp/untitled/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C&amp;Cpp/untitled/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../C&amp;Cpp/untitled/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C&amp;Cpp/untitled/cmake-build-debug/untitled.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../C&amp;Cpp/untitled/cmake-build-debug/untitled.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CS/DSAndAlgo/DataStructuresAndAlgorithms/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CS/DSAndAlgo/DataStructuresAndAlgorithms/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/.bin/_metalsmith" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/.bin/_metalsmith" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/.bin/cake" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/.bin/cake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/.bin/coffee" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/.bin/coffee" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/.bin/esparse" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/.bin/esparse" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/.bin/esvalidate" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/.bin/esvalidate" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/.bin/handlebars" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/.bin/handlebars" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/.bin/js-yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/.bin/js-yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/.bin/metalsmith" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/.bin/metalsmith" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/.bin/mkdirp" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/.bin/mkdirp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/.bin/rimraf" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/.bin/rimraf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/.bin/seek-bunzip" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/.bin/seek-bunzip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/.bin/seek-table" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/.bin/seek-table" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/.bin/semver" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/.bin/sshpk-conv" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/.bin/sshpk-conv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/.bin/sshpk-sign" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/.bin/sshpk-sign" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/.bin/sshpk-verify" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/.bin/sshpk-verify" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/.bin/uglifyjs" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/.bin/uglifyjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/.bin/uid" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/.bin/uid" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/.bin/uuid" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/.bin/uuid" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/.bin/vue" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/.bin/vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/.bin/vue-init" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/.bin/vue-init" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/.bin/vue-list" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/.bin/vue-list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/.bin/which" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/.bin/which" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/.bin/win-fork" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/.bin/win-fork" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/.bin/win-line-endings" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/.bin/win-line-endings" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/.bin/win-spawn" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/.bin/win-spawn" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/@vue/cli-init/node_modules/.bin/vue" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/@vue/cli-init/node_modules/.bin/vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/@vue/cli-init/node_modules/.bin/vue-init" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/@vue/cli-init/node_modules/.bin/vue-init" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/@vue/cli-init/node_modules/.bin/vue-list" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/@vue/cli-init/node_modules/.bin/vue-list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/cross-spawn/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/cross-spawn/node_modules/.bin/semver" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/cross-spawn/node_modules/.bin/which" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/cross-spawn/node_modules/.bin/which" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/decompress-tarbz2/node_modules/.bin/seek-bunzip" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/decompress-tarbz2/node_modules/.bin/seek-bunzip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/decompress-tarbz2/node_modules/.bin/seek-table" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/decompress-tarbz2/node_modules/.bin/seek-table" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/download-git-repo/node_modules/.bin/rimraf" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/download-git-repo/node_modules/.bin/rimraf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/download/node_modules/.bin/mkdirp" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/download/node_modules/.bin/mkdirp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/fs-extra/node_modules/.bin/rimraf" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/fs-extra/node_modules/.bin/rimraf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/gray-matter/node_modules/.bin/cake" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/gray-matter/node_modules/.bin/cake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/gray-matter/node_modules/.bin/coffee" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/gray-matter/node_modules/.bin/coffee" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/gray-matter/node_modules/.bin/js-yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/gray-matter/node_modules/.bin/js-yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/handlebars/node_modules/.bin/uglifyjs" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/handlebars/node_modules/.bin/uglifyjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/http-signature/node_modules/.bin/sshpk-conv" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/http-signature/node_modules/.bin/sshpk-conv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/http-signature/node_modules/.bin/sshpk-sign" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/http-signature/node_modules/.bin/sshpk-sign" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/http-signature/node_modules/.bin/sshpk-verify" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/http-signature/node_modules/.bin/sshpk-verify" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/js-yaml/node_modules/.bin/esparse" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/js-yaml/node_modules/.bin/esparse" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/js-yaml/node_modules/.bin/esvalidate" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/js-yaml/node_modules/.bin/esvalidate" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/metalsmith/node_modules/.bin/rimraf" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/metalsmith/node_modules/.bin/rimraf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/metalsmith/node_modules/.bin/win-fork" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/metalsmith/node_modules/.bin/win-fork" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/metalsmith/node_modules/.bin/win-line-endings" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/metalsmith/node_modules/.bin/win-line-endings" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/metalsmith/node_modules/.bin/win-spawn" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/metalsmith/node_modules/.bin/win-spawn" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/request/node_modules/.bin/uuid" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/request/node_modules/.bin/uuid" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/vue-cli/node_modules/.bin/_metalsmith" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/vue-cli/node_modules/.bin/_metalsmith" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/vue-cli/node_modules/.bin/cake" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/vue-cli/node_modules/.bin/cake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/vue-cli/node_modules/.bin/coffee" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/vue-cli/node_modules/.bin/coffee" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/vue-cli/node_modules/.bin/handlebars" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/vue-cli/node_modules/.bin/handlebars" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/vue-cli/node_modules/.bin/metalsmith" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/vue-cli/node_modules/.bin/metalsmith" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/vue-cli/node_modules/.bin/rimraf" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/vue-cli/node_modules/.bin/rimraf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/vue-cli/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/vue-cli/node_modules/.bin/semver" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/vue-cli/node_modules/.bin/uid" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd/imooc/Vue/node_modules/vue-cli/node_modules/.bin/uid" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaPracticeProjects/imooc/litemall" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPracticeProjects/imooc/litemall" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Test.class" afterDir="false" />
-    </list>
+    <list default="true" id="fb45e7a7-e8a0-49db-95d4-9428670a1919" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -146,7 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1RC5B0lVJVfqoI6T8LHwBs0OSyw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -367,6 +241,7 @@
       <workItem from="1589857378578" duration="7420000" />
       <workItem from="1590220222142" duration="62000" />
       <workItem from="1590308107638" duration="2961000" />
+      <workItem from="1590837307708" duration="327000" />
     </task>
     <servers />
   </component>
