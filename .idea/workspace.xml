@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb45e7a7-e8a0-49db-95d4-9428670a1919" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q154寻找旋转排序数组中的最小值2/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q33搜索旋转排序数组/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q26删除排序数组中的重复项/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q344反转字符串/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Q154寻找旋转排序数组中的最小值2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Q154寻找旋转排序数组中的最小值2/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/leetcode.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Q153旋转排序数组最小值/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Q153旋转排序数组最小值/SolutionTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +60,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -78,7 +84,7 @@
       <recent name="$PROJECT_DIR$/src/203" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SolutionTest.firstBadVersion">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test" />
       <module name="leetcode" />
@@ -152,8 +158,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SolutionTest.firstBadVersion" />
         <item itemvalue="Application.Test" />
+        <item itemvalue="JUnit.SolutionTest.firstBadVersion" />
         <item itemvalue="JUnit.SolutionTest.reversePairs" />
         <item itemvalue="JUnit.SolutionTest.findKthLargest" />
         <item itemvalue="JUnit.SolutionTest.firstUniqChar" />
@@ -246,7 +252,12 @@
       <workItem from="1589857378578" duration="7420000" />
       <workItem from="1590220222142" duration="62000" />
       <workItem from="1590308107638" duration="2961000" />
-      <workItem from="1590837307708" duration="1430000" />
+      <workItem from="1590837307708" duration="2029000" />
+      <workItem from="1590972941597" duration="596000" />
+      <workItem from="1591147580175" duration="699000" />
+      <workItem from="1592636796713" duration="224000" />
+      <workItem from="1592637177034" duration="950000" />
+      <workItem from="1592962755878" duration="686000" />
     </task>
     <servers />
   </component>
@@ -328,14 +339,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="60" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1590544429680" />
-    <state x="249" y="0" key="SettingsEditor" timestamp="1589018196351">
+    <state x="249" y="0" key="SettingsEditor" timestamp="1592637067849">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1589018196351" />
-    <state x="490" y="154" width="561" height="524" key="StructurePopup" timestamp="1587883196382">
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1592637067849" />
+    <state x="490" y="154" width="561" height="524" key="StructurePopup" timestamp="1591147660579">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="490" y="154" width="561" height="524" key="StructurePopup/0.0.1536.824@0.0.1536.824" timestamp="1587883196382" />
+    <state x="490" y="154" width="561" height="524" key="StructurePopup/0.0.1536.824@0.0.1536.824" timestamp="1591147660579" />
     <state width="507" height="456" key="SwitcherDM" timestamp="1590308187040">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -352,10 +363,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="462" y="212" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1585058348246" />
-    <state x="397" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1589943159291">
+    <state x="397" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1591147654527">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="397" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1589943159291" />
+    <state x="397" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1591147654527" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
