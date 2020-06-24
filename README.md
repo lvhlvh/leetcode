@@ -25,6 +25,7 @@
 
 | 题目                                                         | Solution                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [1. 两数之和](https://leetcode-cn.com/problems/two-sum/) :m: | [代码1-双重循环](./src/main/java/Q001两数之和/Solution.java)  [代码2-HashMap ](./src/main/java/Q001两数之和/Solution2.java) [题解](./src/main/java/Q001两数之和/note.md) |
 | [9. 回文数](https://leetcode-cn.com/problems/palindrome-number/) :m: | [代码](src/main/java/Q009回文数/Solution.java) 更多解法待补充 |
 | [344. 反转字符串](https://leetcode-cn.com/problems/reverse-string/) | [代码](./src/main/java/Q344反转字符串/Solution.java)         |
 |                                                              |                                                              |
@@ -37,6 +38,9 @@
 | [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | [代码](src/main/java/Q141环形链表/Solution.java)             |
 | [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [代码1](./src/main/java/Q142环形链表2/Solution.java)  [代码2 ](./src/main/java/Q142环形链表2/Solution2.java) [题解](./src/main/java/Q142环形链表2/note.md) |
 |                                                              |                                                              |
-|                                                              |                                                              |
+| [876. 链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/) | [代码](src/main/java/Q876链表的中间节点/Solution.java)       |
+| [剑指 Offer 22. 链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/) | [代码](src/main/java/jianzhioffer/Q22链表中倒数第k个节点/Solution.java) |
+
+
 
 ## 
