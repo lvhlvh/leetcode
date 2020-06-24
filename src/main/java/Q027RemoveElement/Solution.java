@@ -1,4 +1,4 @@
-package Q27RemoveElement;
+package Q027RemoveElement;
 
 public class Solution {
     public int removeElement(int[] nums, int val) {

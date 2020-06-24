@@ -1,4 +1,4 @@
-package Q33搜索旋转排序数组;
+package Q033搜索旋转排序数组;
 
 public class Solution {
     public int search(int[] nums, int target) {

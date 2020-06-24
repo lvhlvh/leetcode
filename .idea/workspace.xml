@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb45e7a7-e8a0-49db-95d4-9428670a1919" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q009回文数/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q142环形链表2/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q142环形链表2/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q142环形链表2/note.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Q26删除排序数组中的重复项/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Q26删除排序数组中的重复项/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Q141/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Q141环形链表/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Q141/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Q141环形链表/note.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Q26RemoveDuplicates/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Q26删除排序数组中的重复项/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Q026删除排序数组中的重复项/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Q27RemoveElement/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Q027RemoveElement/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Q27RemoveElement/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Q027RemoveElement/Solution2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Q33搜索旋转排序数组/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Q033搜索旋转排序数组/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -249,7 +260,7 @@
       <workItem from="1591147580175" duration="699000" />
       <workItem from="1592636796713" duration="224000" />
       <workItem from="1592637177034" duration="950000" />
-      <workItem from="1592962755878" duration="1503000" />
+      <workItem from="1592962755878" duration="7214000" />
     </task>
     <servers />
   </component>
@@ -335,14 +346,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1592637067849" />
-    <state x="490" y="154" width="561" height="524" key="StructurePopup" timestamp="1591147660579">
+    <state x="490" y="154" width="561" height="524" key="StructurePopup" timestamp="1592977494337">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="490" y="154" width="561" height="524" key="StructurePopup/0.0.1536.824@0.0.1536.824" timestamp="1591147660579" />
-    <state width="507" height="456" key="SwitcherDM" timestamp="1590308187040">
+    <state x="490" y="154" width="561" height="524" key="StructurePopup/0.0.1536.824@0.0.1536.824" timestamp="1592977494337" />
+    <state width="507" height="456" key="SwitcherDM" timestamp="1592979842611">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="507" height="456" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1590308187040" />
+    <state width="507" height="456" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1592979842611" />
     <state x="540" y="130" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1590308228145">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -355,10 +366,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="462" y="212" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1585058348246" />
-    <state x="397" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1591147654527">
+    <state x="397" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1592977491436">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="397" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1591147654527" />
+    <state x="397" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1592977491436" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
