@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb45e7a7-e8a0-49db-95d4-9428670a1919" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q26删除排序数组中的重复项/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q344反转字符串/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Q154寻找旋转排序数组中的最小值2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Q154寻找旋转排序数组中的最小值2/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/leetcode.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Q153旋转排序数组最小值/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Q153旋转排序数组最小值/SolutionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Q26删除排序数组中的重复项/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Q26删除排序数组中的重复项/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -257,7 +249,7 @@
       <workItem from="1591147580175" duration="699000" />
       <workItem from="1592636796713" duration="224000" />
       <workItem from="1592637177034" duration="950000" />
-      <workItem from="1592962755878" duration="686000" />
+      <workItem from="1592962755878" duration="1503000" />
     </task>
     <servers />
   </component>
