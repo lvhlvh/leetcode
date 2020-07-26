@@ -52,7 +52,7 @@
 
 
 
-# 3. 单调栈
+# 3. 单调栈 Monotone Stack
 
 [笔记](https://github.com/lvhlvh/algorithm-notes/blob/master/07.%E5%8D%95%E8%B0%83%E6%A0%88%E5%8D%95%E8%B0%83%E9%98%9F%E5%88%97%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3.md)
 
@@ -67,9 +67,9 @@
 
 
 
-# 4. 回溯算法
+# 4. 回溯算法/深度优先搜索 Backtrack/DFS 
 
-[笔记](https://github.com/lvhlvh/algorithm-notes/blob/master/08.%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95.md)
+[笔记](https://github.com/lvhlvh/algorithm-notes/blob/master/08.%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95DFS.md) 
 
 | 题目                                                         | Solution                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -81,3 +81,14 @@
 |                                                              |                                                              |
 |                                                              |                                                              |
 
+# 5. 广度优先搜索 BFS
+
+[笔记](https://github.com/lvhlvh/algorithm-notes/blob/master/09.BFS.md)
+
+| 题目                                                         | Solution                                                 |
+| ------------------------------------------------------------ | -------------------------------------------------------- |
+| [111. 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) | [代码](src/main/java/Q111二叉树的最小深度/Solution.java) |
+| [752. 打开转盘锁](https://leetcode-cn.com/problems/open-the-lock/) | [代码](src/main/java/Q752打开转盘锁/Solution.java)       |
+|                                                              |                                                          |
+|                                                              |                                                          |
+|                                                              |                                                          |
