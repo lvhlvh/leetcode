@@ -74,7 +74,7 @@
 | 题目                                                         | Solution                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [46. 全排列](https://leetcode-cn.com/problems/permutations/) | [代码](src/main/java/Q046全排列/Solution.java)               |
-| [47. 全排列 II](https://leetcode-cn.com/problems/permutations-ii/) | [代码](src/main/java/jianzhioffer/Q047全排列II/Solution.java) [题解](./src/main/java/Q047全排列II/note.md) |
+| [47. 全排列 II](https://leetcode-cn.com/problems/permutations-ii/) | [代码](src/main/java/Q047全排列II/Solution.java) [题解](./src/main/java/Q047全排列II/note.md) |
 | [剑指 Offer 38. 字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/) | [代码](src/main/java/jianzhioffer/Q38字符串的排列/Solution.java) |
 |                                                              |                                                              |
 |                                                              |                                                              |
