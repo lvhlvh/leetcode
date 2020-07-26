@@ -1,18 +1,13 @@
+import java.util.HashSet;
+import java.util.Set;
+
 public class Test {
     public static void main(String[] args) {
-        System.out.println(findMedianSortedArrays(new int[]{1, 2}, new int[]{3, 4}));
-    }
+        Set<String> visted = new HashSet<>();
 
-    public static double findMedianSortedArrays(int[] nums1, int[] nums2) {
-        int[] nums = new int[nums1.length + nums2.length];
+        visted.add(new String("abcddwaedfee3r4r"));
+        visted.add(new String("abcddwaedfee3r4r"));
 
-        int i = 0, j = 0, k = 0;
-        while (i < nums1.length && j < nums2.length) {
-            if (nums1[i] <= nums2[j]) nums[k++] = nums1[i++];
-            else nums[k++] = nums2[j++];
-        }
-
-        if ((nums.length & 1) == 1) return (double) nums[nums.length >>> 1];
-        else return (nums[nums.length >>> 1] * 1.0 + nums[(nums.length >>> 1) - 1]) / 2;
+        System.out.println(visted.size());
     }
 }

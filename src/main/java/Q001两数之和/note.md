@@ -2,6 +2,24 @@
 
 ## 解法1：双重循环
 
+```java
+class Solution {
+    public int[] twoSum(int[] nums, int target) {
+        for (int i = 0; i < nums.length; ++i) {
+            for (int j = i + 1; j < nums.length; ++j) {
+                if (nums[i] + nums[j] == target) return new int[]{i, j};
+            }
+        }
+        return null;
+    }
+}
+
+```
+
+### 复杂度
+
+时间 O(n^2)，空间 O(1)
+
 ## 解法2：借助HashMap
 
 维护一个HashMap，存放**数组值**到**数组下标**的映射。
