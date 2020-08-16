@@ -92,3 +92,15 @@
 |                                                              |                                                          |
 |                                                              |                                                          |
 |                                                              |                                                          |
+
+# 6. 动态规划 Dynamic Programming
+
+[笔记]()
+
+| 题目                                                         | Solution                                                 |
+| ------------------------------------------------------------ | -------------------------------------------------------- |
+| [300. 最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | [代码1](src/main/java/Q300最长上升子序列/Solution.java) [代码2](src/main/java/Q300最长上升子序列/Solution2.java)|
+| [322. 零钱兑换](https://leetcode-cn.com/problems/coin-change) | [代码](src/main/java/Q322零钱兑换/Solution.java)       |
+|                                                              |                                                          |
+|                                                              |                                                          |
+|                                                              |                                                          |
