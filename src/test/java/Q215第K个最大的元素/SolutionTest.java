@@ -4,8 +4,8 @@ import org.junit.jupiter.api.Test;
 
 class SolutionTest {
 
-    @Test
-    void findKthLargest() {
-        System.out.println(new Solution().findKthLargest(new int[]{7, 6, 5, 4, 3, 2, 1}, 2));
-    }
+  @Test
+  void findKthLargest() {
+    System.out.println(new Solution().findKthLargest(new int[] {7, 6, 5, 4, 3, 2, 1}, 2));
+  }
 }

@@ -6,8 +6,8 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class SolutionTest {
 
-    @Test
-    void maxSubArray() {
-        System.out.println(new Solution().maxSubArray(new int[]{-2, 1}));
-    }
+  @Test
+  void maxSubArray() {
+    System.out.println(new Solution().maxSubArray(new int[] {-2, 1}));
+  }
 }

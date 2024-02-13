@@ -1,4 +1,3 @@
 package Q211;
 
-public class WordDictionary {
-}
+public class WordDictionary {}

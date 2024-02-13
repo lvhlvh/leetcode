@@ -6,8 +6,8 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class SolutionTest {
 
-    @Test
-    void firstUniqChar() {
-        System.out.println(new Solution().firstUniqChar("leetcode"));
-    }
+  @Test
+  void firstUniqChar() {
+    System.out.println(new Solution().firstUniqChar("leetcode"));
+  }
 }

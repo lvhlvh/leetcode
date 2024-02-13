@@ -4,11 +4,11 @@ import org.junit.jupiter.api.Test;
 
 class Solution2Test {
 
-    private Solution2 solution = new Solution2();
+  private Solution2 solution = new Solution2();
 
-    @Test
-    void lengthOfLIS() {
-        int[] nums = {1, 3, 6, 7, 9, 4, 10, 5, 6};
-        System.out.println(solution.lengthOfLIS(nums));
-    }
+  @Test
+  void lengthOfLIS() {
+    int[] nums = {1, 3, 6, 7, 9, 4, 10, 5, 6};
+    System.out.println(solution.lengthOfLIS(nums));
+  }
 }

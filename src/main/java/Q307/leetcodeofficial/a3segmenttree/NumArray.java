@@ -1,6 +1,6 @@
 package Q307.leetcodeofficial.a3segmenttree;
 
-//public class NumArray {
+// public class NumArray {
 //    int[] tree; // 线段树
 //    int n; // nums的元素个数
 //
@@ -22,4 +22,4 @@ package Q307.leetcodeofficial.a3segmenttree;
 //    private void buildTree(int[] nums) {
 //
 //    }
-//}
+// }

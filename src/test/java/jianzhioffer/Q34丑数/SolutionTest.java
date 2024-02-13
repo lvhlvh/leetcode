@@ -9,8 +9,6 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class SolutionTest {
 
-    @Test
-    void nthUglyNumber() {
-
-    }
+  @Test
+  void nthUglyNumber() {}
 }

@@ -10,9 +10,8 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class SolutionTest {
 
-    @Test
-    void findNthDigit() {
-        System.out.println(new Solution().findNthDigit(3));
-
-    }
+  @Test
+  void findNthDigit() {
+    System.out.println(new Solution().findNthDigit(3));
+  }
 }

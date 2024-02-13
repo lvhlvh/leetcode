@@ -8,17 +8,16 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class SolutionTest {
 
-    @Test
-    void threeSum() {
-        Solution solution = new Solution();
-        int[] nums = {1, -1, -1, 0};
-        List<List<Integer>> lists = solution.threeSum(nums);
-        for (List<Integer> list : lists) {
-            System.out.println(list);
-        }
+  @Test
+  void threeSum() {
+    Solution solution = new Solution();
+    int[] nums = {1, -1, -1, 0};
+    List<List<Integer>> lists = solution.threeSum(nums);
+    for (List<Integer> list : lists) {
+      System.out.println(list);
     }
+  }
 
-    @Test
-    void twoSum() {
-    }
+  @Test
+  void twoSum() {}
 }

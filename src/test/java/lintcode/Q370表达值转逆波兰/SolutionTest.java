@@ -6,9 +6,8 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class SolutionTest {
 
-    private Solution solution = new Solution();
+  private Solution solution = new Solution();
 
-    @Test
-    void convertToRPN() {
-    }
+  @Test
+  void convertToRPN() {}
 }
