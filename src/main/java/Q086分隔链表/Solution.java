@@ -10,7 +10,6 @@ public class Solution {
     for (ListNode cur = head; cur != null; cur = cur.next) {
       if (cur.val < x) {
         tail.next = cur;
-        cur = cur.next;
         tail = tail.next;
       }
     }
@@ -18,7 +17,6 @@ public class Solution {
     for (ListNode cur = head; cur != null; cur = cur.next) {
       if (cur.val >= x) {
         tail.next = cur;
-        cur = cur.next;
         tail = tail.next;
       }
     }
