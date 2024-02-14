@@ -28,7 +28,7 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [26. 删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [代码](src/main/java/Q026删除排序数组中的重复项/Solution.java) |
 | [160. 相交链表](https://leetcode.cn/problems/intersection-of-two-linked-lists/) | [代码](src/main/java/Q160相交链表/Solution.java) [题解](src/main/java/Q160相交链表/note.md) |
-| [2. 两数相加](https://leetcode.cn/problems/add-two-numbers/) | [代码]() [题解]()                                            |
+| [2. 两数相加](https://leetcode.cn/problems/add-two-numbers/) | [代码](src/main/java/Q002两数相加)                           |
 |                                                              |                                                              |
 |                                                              |                                                              |
 
