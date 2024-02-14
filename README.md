@@ -49,6 +49,7 @@
 | [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [代码1](./src/main/java/Q142环形链表2/Solution.java)  [代码2 ](./src/main/java/Q142环形链表2/Solution2.java) [题解](./src/main/java/Q142环形链表2/note.md) |
 | [876. 链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/) | [代码](src/main/java/Q876链表的中间节点/Solution.java)       |
 | [剑指 Offer 22. 链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/) | [代码](src/main/java/jianzhioffer/Q22链表中倒数第k个节点/Solution.java) |
+| [LCR 021. 删除链表的倒数第 N 个结点](https://leetcode.cn/problems/SLwz0R/) | [代码](src/main/java/jianzhioffer/LCR021删除链表倒数第N个节点/Solution.java) [题解](src/main/java/jianzhioffer/LCR021删除链表倒数第N个节点/note.md) |
 
 
 
