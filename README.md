@@ -18,7 +18,15 @@
 | [154. 寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [代码](./src/main/java/Q153寻找旋转排序数组中的最小值2/Solution.java) |
 | [278. 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/) | [代码](./src/main/java/Q278第一个错误的版本/Solution.java)   |
 
-# 2. 双指针 Two Pointers
+# 2. 链表
+
+| 题目                                                         | Solution                                       |
+| ------------------------------------------------------------ | ---------------------------------------------- |
+| [24. 两两交换链表中的节点](https://leetcode.cn/problems/swap-nodes-in-pairs/) | [题解](src/main/java/Q024两两交换链表中的节点) |
+|                                                              |                                                |
+|                                                              |                                                |
+
+# 3. 双指针 Two Pointers
 
 [笔记](https://github.com/lvhlvh/algorithm-notes/blob/master/05.%E5%8F%8C%E6%8C%87%E9%92%88.md)
 
