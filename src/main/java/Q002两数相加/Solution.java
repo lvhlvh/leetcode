@@ -1,42 +1,58 @@
 package Q002两数相加;
 
-class ListNode {
-  int val;
-  ListNode next;
+import common.ListNode;
 
-  public ListNode(int val) {
-    this.val = val;
-  }
-}
-
+/** 就是列竖式做加法的思路 */
 public class Solution {
   public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-    ListNode ret = new ListNode(-1); // dummyHead
-    ListNode tail = ret;
+    if (l1 == null) return l2;
+    if (l2 == null) return l1;
 
-    ListNode cur1 = l1, cur2 = l2;
-    int c = 0; // 进位
-    while (cur1 != null || cur2 != null) {
-      int sum = c;
-      if (cur1 != null) {
-        sum += cur1.val; // 必须cur1 != null, 才能cur1.val
-        cur1 = cur1.next; // 必须cur1 != null, 才能cur1 = cur1.next
-      }
-      if (cur2 != null) {
-        sum += cur2.val;
-        cur2 = cur2.next;
-      }
+    ListNode resultDummyHead = new ListNode(-1);
+    ListNode resultTail = resultDummyHead;
+    ListNode p1 = l1, p2 = l2;
 
-      tail.next = new ListNode(sum % 10);
-      tail = tail.next;
-      c = sum / 10;
+    int carry = 0;
+    // 为了避免npe，这里循环的条件是这两个指针都不是null
+    while (p1 != null && p2 != null) {
+      int sum = p1.val + p2.val + carry;
+      int onesPlace = sum % 10;
+      carry = sum / 10;
+
+      resultTail.next = new ListNode(onesPlace);
+      resultTail = resultTail.next;
+
+      p1 = p1.next;
+      p2 = p2.next;
     }
 
-    if (c != 0) {
-      tail.next = new ListNode(c);
-      tail = tail.next;
+    // 然后遍历剩下的不是null的链表
+    while (p1 != null) {
+      int sum = p1.val + carry;
+      int onesPlace = sum % 10;
+      carry = sum / 10;
+
+      resultTail.next = new ListNode(onesPlace);
+      resultTail = resultTail.next;
+
+      p1 = p1.next;
     }
 
-    return ret.next;
+    while (p2 != null) {
+      int sum = p2.val + carry;
+      int onesPlace = sum % 10;
+      carry = sum / 10;
+
+      resultTail.next = new ListNode(onesPlace);
+      resultTail = resultTail.next;
+
+      p2 = p2.next;
+    }
+
+    if (carry != 0) {
+      resultTail.next = new ListNode(carry);
+    }
+
+    return resultDummyHead.next;
   }
 }

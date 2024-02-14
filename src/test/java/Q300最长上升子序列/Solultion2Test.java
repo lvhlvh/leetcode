@@ -2,7 +2,7 @@ package Q300最长上升子序列;
 
 import org.junit.jupiter.api.Test;
 
-class Solution2Test {
+class Solultion2Test {
 
   private Solution2 solution = new Solution2();
 
