@@ -1,5 +1,6 @@
 package Q283MoveZero;
 
+/** 基于swap */
 public class Solution2 {
   public void moveZeroes(int[] nums) {
     int j = 0;

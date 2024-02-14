@@ -1,5 +1,6 @@
 package Q283MoveZero;
 
+/** 基于swap的优化, 减少swap次数 */
 public class Solution3 {
   public void moveZeroes(int[] nums) {
     int j = 0;
