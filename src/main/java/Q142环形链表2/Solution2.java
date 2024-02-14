@@ -1,5 +1,6 @@
 package Q142环形链表2;
 
+/** Floyd环检测算法 */
 public class Solution2 {
   public ListNode detectCycle(ListNode head) {
     ListNode fast, slow;
