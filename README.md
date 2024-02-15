@@ -38,7 +38,7 @@
 | [160. 相交链表](https://leetcode.cn/problems/intersection-of-two-linked-lists/) | [代码](src/main/java/Q160相交链表/Solution.java) [题解](src/main/java/Q160相交链表/note.md) |
 | [2. 两数相加](https://leetcode.cn/problems/add-two-numbers/) | [代码](src/main/java/Q002两数相加)                           |
 | [206. 反转链表](https://leetcode.cn/problems/reverse-linked-list/) | [题解](src/main/java/Q206反转链表)                           |
-|                                                              |                                                              |
+| [92. 反转链表 II](https://leetcode.cn/problems/reverse-linked-list-ii/) | [题解](src/main/java/Q092反转链表II)                         |
 
 ## 反向双指针
 
