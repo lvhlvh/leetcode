@@ -1,5 +1,7 @@
 package Q206反转链表;
 
+import common.ListNode;
+
 /**
  * Definition for singly-linked list. public class ListNode { int val; ListNode next; ListNode(int
  * x) { val = x; } }
@@ -11,20 +13,9 @@ class Solution2 {
       return null;
     }
 
-    if (head.next == null) {
-      return head;
-    }
-
     ListNode newHead = reverseList(head.next);
     head.next.next = head;
     head.next = null;
     return newHead;
-    // ListNode tmp = head;
-    // ListNode secondNode = head.next;
-    // head.next = null;
-    // head = reverseList(secondNode);
-    // secondNode.next = tmp;
-
-    // return head;
   }
 }

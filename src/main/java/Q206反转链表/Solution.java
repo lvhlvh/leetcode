@@ -1,5 +1,7 @@
 package Q206反转链表;
 
+import common.ListNode;
+
 /**
  * Definition for singly-linked list. public class ListNode { int val; ListNode next; ListNode(int
  * x) { val = x; } }
