@@ -39,6 +39,7 @@
 | [2. 两数相加](https://leetcode.cn/problems/add-two-numbers/) | [代码](src/main/java/Q002两数相加)                           |
 | [206. 反转链表](https://leetcode.cn/problems/reverse-linked-list/) | [题解](src/main/java/Q206反转链表)                           |
 | [92. 反转链表 II](https://leetcode.cn/problems/reverse-linked-list-ii/) | [题解](src/main/java/Q092反转链表II)                         |
+| [25. K 个一组翻转链表](https://leetcode.cn/problems/reverse-nodes-in-k-group/) | [题解](src/main/java/Q025K个一组反转链表)                    |
 
 ## 反向双指针
 
