@@ -11,7 +11,7 @@ import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.ConcurrentLinkedDeque;
 
 @Slf4j
-public class SlidingWindowRateLimiter implements RateLimiter {
+public class SlidingWindowPerClientRateLimiter implements PerClientRateLimiter {
 
   /** 窗口允许的最大请求数 */
   private final int maxRequestPerWindow;
@@ -23,7 +23,7 @@ public class SlidingWindowRateLimiter implements RateLimiter {
   private final ConcurrentHashMap<String, Deque<Instant>> clientHistoryVisitTimesMap =
       new ConcurrentHashMap<>();
 
-  public SlidingWindowRateLimiter(int maxRequestPerWindow, Duration windowSize) {
+  public SlidingWindowPerClientRateLimiter(int maxRequestPerWindow, Duration windowSize) {
     this.maxRequestPerWindow = maxRequestPerWindow;
     this.windowSize = windowSize;
   }

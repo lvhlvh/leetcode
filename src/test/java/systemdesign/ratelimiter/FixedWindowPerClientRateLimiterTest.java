@@ -6,11 +6,11 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;
 import org.junit.jupiter.api.Test;
 
-class FixedWindowRateLimiterTest {
+class FixedWindowPerClientRateLimiterTest {
 
   @Test
   public void test() throws InterruptedException {
-    RateLimiter rateLimiter = new FixedWindowRateLimiter(10, Duration.ofSeconds(1L));
+    PerClientRateLimiter rateLimiter = new FixedWindowPerClientRateLimiter(10, Duration.ofSeconds(1L));
 
     final String clientId = "1";
     ExecutorService threadPool = Executors.newFixedThreadPool(10);

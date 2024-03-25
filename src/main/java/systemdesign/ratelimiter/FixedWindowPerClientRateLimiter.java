@@ -16,7 +16,7 @@ import lombok.extern.slf4j.Slf4j;
  * Dive</a>
  */
 @Slf4j
-public class FixedWindowRateLimiter implements RateLimiter {
+public class FixedWindowPerClientRateLimiter implements PerClientRateLimiter {
 
   /** 每个窗口允许的最大请求数 */
   private final int maxRequestPerWindow;
@@ -27,7 +27,7 @@ public class FixedWindowRateLimiter implements RateLimiter {
   /** key: 客户端id, value: 该客户端对应的窗口 */
   private final Map<String, Window> clientWindowMap = new HashMap<>();
 
-  public FixedWindowRateLimiter(int maxRequestPerWindow, Duration windowSize) {
+  public FixedWindowPerClientRateLimiter(int maxRequestPerWindow, Duration windowSize) {
     this.maxRequestPerWindow = maxRequestPerWindow;
     this.windowSize = windowSize;
   }

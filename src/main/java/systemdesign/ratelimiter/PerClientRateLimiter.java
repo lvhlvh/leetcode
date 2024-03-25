@@ -1,5 +1,5 @@
 package systemdesign.ratelimiter;
 
-public interface RateLimiter {
+public interface PerClientRateLimiter {
   boolean isAllowed(String clientId);
 }
